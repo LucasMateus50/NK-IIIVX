@@ -10,7 +10,7 @@
 Mensagen em chats Seguras evitando redes publicas e aplicativos inseguros .Arquivos seguros criptografa e descriptografa arquivos txt pdf e excel. mova o arquivo .txt .pdf ou excel.ods para pasta do  programa
 
 
-Version 1.0 bug ao descriptografar o arquivo completamente  mova o da pasta . caso descriptografe novamente o programa irá fechar
+Version 1.5 bug ao descriptografar o arquivo completamente  mova o da pasta . caso descriptografe novamente o programa irá fechar
 
 
 BTC 14k7Dt3rG39W6pShafx7x9rk7747B5By7d
