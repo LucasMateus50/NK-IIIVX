@@ -2,9 +2,9 @@
 
 
 
+![tn5-1](https://user-images.githubusercontent.com/101123260/157132563-4187bb56-c734-4a25-9f72-7c909161d53f.png)
 
 
-![NK-IIIVX-3](https://user-images.githubusercontent.com/101123260/157068332-5e9a0085-ab15-4a73-9c05-e7a44aebd198.png)
 
 
 Mensagen em chat Seguras evitando redes publicas e aplicativos inseguros .Arquivos seguros criptografa e descriptografa arquivos txt e pdf. mova o arquivo .txt ou .pdf para pasta do  programa
