@@ -13,7 +13,7 @@ Mensagen em chats Seguras evitando redes publicas e aplicativos inseguros .Arqui
 Version 1.6 bug ao descriptografar o arquivo completamente  mova o da pasta . caso descriptografe novamente o programa irá fechar
 
 
-14k7Dt3rG39W6pShafx7x9rk7747B5By7d
+BTC 14k7Dt3rG39W6pShafx7x9rk7747B5By7d
 
 
 
