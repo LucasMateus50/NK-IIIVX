@@ -15,7 +15,7 @@ BTC 14k7Dt3rG39W6pShafx7x9rk7747B5By7d
 
 <h4>version 1.0 bug </h4>
 
-ao descriptografar o arquivo completamente  mova o da pasta . caso descriptografe novamente o programa ira fechar
+ao descriptografar o arquivo completamente  mova o da pasta . caso descriptografe novamente o programa irá fechar
 
 
 
