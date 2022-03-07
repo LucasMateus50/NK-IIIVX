@@ -2,8 +2,7 @@
 
 
 
-![tn5-1](https://user-images.githubusercontent.com/101123260/157132563-4187bb56-c734-4a25-9f72-7c909161d53f.png)
-
+![NK-IIIVX-3](https://user-images.githubusercontent.com/101123260/157133306-ca364424-0dc9-49ef-9116-12a26adb7585.png)
 
 
 
