@@ -7,6 +7,8 @@
 
 executar arquivo em uma pasta vazia. criptografa mensagens e arquivos txt contidos na pasta deixando o arquivo seguro
 
+14k7Dt3rG39W6pShafx7x9rk7747B5By7d
+
 
 
 
