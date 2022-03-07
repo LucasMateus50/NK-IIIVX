@@ -1,0 +1,195 @@
+
+#:import Snackbar kivymd.uix.snackbar.Snackbar
+#:import Clipboard kivy.core.clipboard.Clipboard
+
+
+<ContentNavigationDrawer>
+
+
+
+    ScrollView:
+
+        MDList:
+
+            OneLineListItem:
+                text: "Encrypt"
+
+                on_press:
+                    root.nav_drawer.set_state("close")
+                    root.screen_manager.current = "scr 1"
+
+            OneLineListItem:
+                text: "Decrypt"
+                on_press:
+                    root.nav_drawer.set_state("close")
+                    root.screen_manager.current = "scr 2"
+
+
+            OneLineListItem:
+                text: "NK-IIIVX"
+
+                on_press:
+                    root.nav_drawer.set_state("close")
+                    root.screen_manager.current = "scr 3"
+
+
+
+MDScreen:
+
+    MDToolbar:
+        id: toolbar
+        pos_hint: {"top": 1}
+        elevation: 10
+        md_bg_color: get_color_from_hex("#111111")
+
+        title: "NK-IIIVX"
+        left_action_items: [["menu", lambda x: nav_drawer.set_state("open")]]
+
+
+
+
+    MDNavigationLayout:
+        x: toolbar.height
+
+
+
+
+
+        ScreenManager:
+            id: screen_manager
+
+            MDScreen:
+                name: "scr 1"
+
+
+                Image:
+                    source:"tn5.png"
+                    pos_hint: {'center_x': .5, "center_y": .7}
+
+                MDLabel:
+                    text: ""
+                    halign: "center"
+
+                MDTextField:
+                    id: Sc1Text
+                    size_hint: .5, .1
+                    pos_hint: {"center_x":  .5, "center_y": .5}
+                    hint_text: "   Encrypt"
+                    helper_text: "Start"
+                    helper_text_mode: "on_focus"
+
+
+                MDRoundFlatButton:
+                    text_color: 'white'
+                    line_color: 'white'
+                    pos_hint: {'center_x': .5, "center_y": .4}
+                    on_release: Snackbar(text="Encrypt").open()
+                    text: "ENCRYPT"
+                    on_press: app.encrypt()
+
+                MDRoundFlatButton:
+                    text_color: 'white'
+                    line_color: 'white'
+                    pos_hint: {'center_x': .5, "center_y": .30}
+                    on_release: Snackbar(text="Copy").open()
+                    text: "COPY"
+                    on_press: Clipboard.copy(Sc1Label.text)
+
+
+
+
+
+                MDLabel:
+                    id: Sc1Label
+                    text: ""
+                    markup: True
+                    halign: "center"
+                    pos_hint: {"center_y": .2}
+
+                MDLabel:
+                    id: Sc2Label
+                    text: ""
+                    color: 'white'
+                    halign: "center"
+                    pos_hint: {"center_y": .1}
+
+
+
+            MDScreen:
+                name: "scr 2"
+
+                Image:
+                    source:"tn5.png"
+                    pos_hint: {'center_x': .5, "center_y": .7}
+
+                MDTextField:
+                    id: Sc1Text1
+                    size_hint: .5, .1
+                    pos_hint: {"center_x":  .5, "center_y": .5}
+                    hint_text: "   Encrypt"
+                    helper_text: "Start"
+                    helper_text_mode: "on_focus"
+
+
+
+
+                MDRoundFlatButton:
+                    text_color: 'white'
+                    line_color: 'white'
+                    pos_hint:{"center_x": .5, "center_y": .4}
+                    on_release:Snackbar(text="Decrypt").open()
+                    text:"DECRYPT"
+                    on_press: app.decrypt()
+
+                MDLabel:
+                    id: Sc1Label1
+                    text: ""
+                    markup: True
+                    halign: "center"
+                    pos_hint: {"center_y": .3}
+
+
+                MDLabel:
+                    id: Sc2Label1
+                    text: ""
+                    halign: "center"
+                    color:'white'
+                    pos_hint: {"center_y": .1}
+
+
+            MDScreen:
+                name: "scr 3"
+
+
+
+                MDLabel:
+                    text: "Email: lucasmateus71849@gmail.com "
+                    id: c1
+                    halign: "center"
+                    color:'white'
+                    pos_hint:{"center_y": .48}
+
+
+
+
+                MDLabel:
+                    text: "14k7Dt3rG39W6pShafx7x9rk7747B5By7d"
+                    halign: "center"
+                    color:'white'
+                    pos_hint: {"center_y": .4}
+                    
+                MDRoundFlatButton:
+                    text_color: 'white'
+                    line_color: 'white'
+                    pos_hint: {'center_x': .5, "center_y": .30}
+                    on_release: Snackbar(text="Copy").open()
+                    text: "BTC"
+                    on_press: Clipboard.copy(c1.text)
+
+
+        MDNavigationDrawer:
+            id: nav_drawer
+
+            ContentNavigationDrawer:
+                screen_manager: screen_manager
+                nav_drawer: nav_drawer
