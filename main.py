@@ -79,10 +79,7 @@ class MainApp(MDApp):
         for File in arquivos:
             if File.endswith('.txt'):
                 Files.append(File)
-            if File.endswith('.pdf'):
-                Files.append(File)
-            if File.endswith('.ods'):
-                Files.append(File)
+            
             
 
 
@@ -125,10 +122,7 @@ class MainApp(MDApp):
         for File in arquivos:
             if File.endswith('.txt'):
                 Files.append(File)
-            if File.endswith('.pdf'):
-                Files.append(File)
-            if File.endswith('.ods'):
-                Files.append(File)
+           
 
 
         function = Decrypt
