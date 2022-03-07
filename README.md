@@ -1,6 +1,6 @@
 # NK-IIIVX
 
-mensagen em chats Seguras .Arquivos seguros criptografa e descriptografa arquivos txt pdf e excel. mova o arquivo txt pdf ou excel para pasta do  programa
+Mensagen em chats Seguras .Arquivos seguros criptografa e descriptografa arquivos txt pdf e excel. mova o arquivo txt pdf ou excel para pasta do  programa
 
 
 
