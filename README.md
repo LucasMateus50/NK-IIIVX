@@ -1,6 +1,6 @@
 # NK-IIIVX
 
-mensagend em chats criptografadas .Arquivos seguros criptografa e descriptografa arquivos txt. mova o arquivo txt para pasta do  programa
+mensagen em chats criptografadas .Arquivos seguros criptografa e descriptografa arquivos txt. mova o arquivo txt para pasta do  programa
 
 
 
