@@ -39,7 +39,7 @@ def Decrypt(file_name):
 
 
 
-# teste
+
 
 
 
@@ -87,7 +87,7 @@ class MainApp(MDApp):
             function(File)
 
 
-        #text label print e copy text
+        
 
         A = open("texto35gjo85458968573.txt",'r')
         for N in A:
@@ -99,14 +99,13 @@ class MainApp(MDApp):
 
         A.close()
 
-        #text label print e copy text
+        
 
         os.remove("texto35gjo85458968573.txt")
 
 
 
 
-    #lembrar terminar
     def decrypt(self):
 
         Ftext1 = open("texto35gjo8545896cyrsiw8573.txt", 'a')
