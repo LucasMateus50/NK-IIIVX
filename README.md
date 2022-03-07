@@ -14,3 +14,6 @@ mensagen em chats criptografadas .Arquivos seguros criptografa e descriptografa 
 
 
 
+
+
+
