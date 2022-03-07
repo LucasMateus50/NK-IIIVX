@@ -1,5 +1,6 @@
 # NK-IIIVX
-![tn5-7](https://user-images.githubusercontent.com/101123260/157135678-32e215ae-f825-4eeb-8a37-207f0976abce.png)
+![tn57](https://user-images.githubusercontent.com/101123260/157138028-971527a3-77a5-4901-aebe-ce3083f204a8.png)
+
 
 
 Mensagen em chat Seguras evitando redes publicas e aplicativos inseguros .Arquivos seguros criptografa e descriptografa arquivos txt e pdf. mova o arquivo .txt ou .pdf para pasta do  programa
