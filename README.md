@@ -13,20 +13,6 @@ Version 1.8 bug ao descriptografar o arquivo completamente  mova o da pasta . ca
 14k7Dt3rG39W6pShafx7x9rk7747B5By7d
 
 
-<h3>Installl Requisitos</h3>
-
-cryptography
-
-pip install cryptography
-
- kivy
-
-pip install kivy
-
-kivymd
-
-pip install kivymd
-
 
 
 
