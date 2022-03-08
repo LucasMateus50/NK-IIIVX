@@ -3,7 +3,7 @@
 
 
 
-Mensagem em chat Seguras evitando redes publicas e aplicativos inseguros .Arquivos seguros criptografa e descriptografa arquivos txt e pdf. mova o arquivo .txt ou .pdf para pasta do  programa
+Mensagens em chat Seguras evitando redes publicas e aplicativos inseguros .Arquivos seguros criptografa e descriptografa arquivos txt e pdf. mova o arquivo .txt ou .pdf para pasta do  programa
 
 
 Version 1.8 bug ao descriptografar o arquivo completamente  mova o da pasta . caso descriptografe novamente o programa irá fechar<br/>
