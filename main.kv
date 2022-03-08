@@ -178,13 +178,7 @@ MDScreen:
                     color:'white'
                     pos_hint: {"center_y": .4}
                     
-                MDRoundFlatButton:
-                    text_color: 'white'
-                    line_color: 'white'
-                    pos_hint: {'center_x': .5, "center_y": .30}
-                    on_release: Snackbar(text="Copy").open()
-                    text: "BTC"
-                    on_press: Clipboard.copy(c1.text)
+                
 
 
         MDNavigationDrawer:
