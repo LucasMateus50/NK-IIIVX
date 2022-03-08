@@ -118,11 +118,11 @@ class MainApp(MDApp):
         Ftext1.write(ms1)
         Ftext1.close()
 
-        arquivos = os.listdir()
+        arquivos1 = os.listdir()
         Files=list()
 
 
-        for File in arquivos:
+        for File in arquivos1:
             if File.endswith('.txt'):
                 Files.append(File)
             elif File.endswith('.pdf'):
