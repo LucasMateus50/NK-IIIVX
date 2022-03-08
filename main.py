@@ -12,11 +12,7 @@ import os
 
 
 
-
-
-
 key = b'vkL9L8qaC6dYExg4SlBrgoTzWCkTzsndvh2yONHlEak='
-
 
 
 
@@ -35,13 +31,6 @@ def Decrypt(file_name):
     decoded = unlock.decrypt(data)
     with open(file_name , 'wb') as file:
         file.write(decoded)
-
-
-
-
-
-
-
 
 
 
