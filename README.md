@@ -19,13 +19,13 @@ cryptography
 
 pip install cryptography
 
-pip install kivy
+ kivy
 
 pip install kivy
+
+kivymd
 
 pip install kivymd
-
-pip install kiymd
 
 
 
