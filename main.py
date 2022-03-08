@@ -19,6 +19,9 @@ key = b'vkL9L8qaC6dYExg4SlBrgoTzWCkTzsndvh2yONHlEak='
 
 
 
+
+
+
 def Encrypt(file_name):
     lock = Fernet(key)
     with open(file_name , 'rb') as file:
