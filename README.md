@@ -11,10 +11,7 @@ Version 1.6 bug ao descriptografar o arquivo completamente  mova o da pasta . ca
 
 
 14k7Dt3rG39W6pShafx7x9rk7747B5By7d
-
-
-
-
+license:mit
 
 
 
