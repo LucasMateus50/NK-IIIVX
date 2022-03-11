@@ -147,6 +147,7 @@ class MainApp(MDApp):
         self.root.ids.Sc2Label1.text = ""
 
         A1.close()
+        open('texto35gjo8545896cyrsiw8573.txt', 'w').close()
 
         os.remove("texto35gjo8545896cyrsiw8573.txt")
 
