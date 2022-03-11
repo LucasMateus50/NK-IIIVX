@@ -117,7 +117,11 @@ class MainApp(MDApp):
     def decrypt(self):
 
         Ftext1 = open("texto35gjo8545896cyrsiw8573.txt", 'a')
-        ms1 = self.root.ids.Sc1Text1.text
+        if self.root.ids.Sc1Text1.text =="":
+            ms1 = 'gAAAAABiK8x_bqNBISgPuVpzGxqUQK3nTNORuhSOVqWQk-36FtBSaijd_nZyxQrV0w9Ab_mvV787Lw6QgQxUp37n0mGkNWLX9w=='
+        else:
+            ms1 = self.root.ids.Sc1Text1.text
+        ms1
         Ftext1.write(ms1)
         Ftext1.close()
 
