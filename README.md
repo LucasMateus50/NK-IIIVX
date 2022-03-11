@@ -11,8 +11,7 @@ update Version 1.7 11/03/2022
 
 14k7Dt3rG39W6pShafx7x9rk7747B5By7d
 
-### licence
-MIT
+
 
 
 
