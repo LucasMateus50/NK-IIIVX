@@ -3,7 +3,7 @@
 
 
 
-Mensagem em chat Seguras evitando redes publicas e aplicativos inseguros .Arquivos seguros criptografa e descriptografa arquivos txt  pdf e .odt. mova o arquivo .txt  .pdf  ou word.odt para pasta do  programa
+Mensagem em chat Seguras evitando redes publicas e aplicativos inseguros .Arquivos seguros criptografa e descriptografa arquivos txt  pdf e .odt. mova o arquivo .txt  .pdf  ou .odt para pasta do  programa
 
 Version 1.6 bug ao descriptografar o arquivo completamente mova o da pasta. caso  descriptografe novamente o arquivo irá fechar
 
