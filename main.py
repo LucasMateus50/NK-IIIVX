@@ -81,8 +81,7 @@ class MainApp(MDApp):
         for File in arquivos:
             if File.endswith('.txt'):
                 Files.append(File)
-            elif File.endswith('.pdf'):
-                Files.append(File)
+            
             
             
             
