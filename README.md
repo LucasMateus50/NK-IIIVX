@@ -5,7 +5,7 @@
 
 Mensagem em chat Seguras evitando redes publicas e aplicativos inseguros .Arquivos seguros criptografa e descriptografa arquivos txt e pdf. mova o arquivo .txt ou .pdf para pasta do  programa
 
-Version 1.7 11/03/2022
+Version 1.7.1
 
 
 
