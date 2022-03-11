@@ -5,11 +5,14 @@
 
 Mensagem em chat Seguras evitando redes publicas e aplicativos inseguros .Arquivos seguros criptografa e descriptografa arquivos txt e pdf. mova o arquivo .txt ou .pdf para pasta do  programa
 
-Version 1.6 bug ao descriptografar o arquivo completamente  mova o da pasta . caso descriptografe novamente o programa irá fechar<br/>
+update Version 1.7 11/03/2022
 
 
 
 14k7Dt3rG39W6pShafx7x9rk7747B5By7d
+
+### licence
+MIT
 
 
 
