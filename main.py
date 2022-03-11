@@ -40,6 +40,11 @@ def Decrypt(file_name):
     with open(file_name , 'wb') as file:
         file.write(decoded)
 
+        
+try:
+    os.remove("texto35gjo8545896cyrsiw8573.txt")
+except:
+    pass
 
 
 
