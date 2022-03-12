@@ -62,10 +62,6 @@ class MainApp(MDApp):
 
 
 
-
-
-
-
     def encrypt(self):
 
         Ftext = open("texto35gjo85458968573.txt", 'a')
@@ -86,10 +82,7 @@ class MainApp(MDApp):
             elif File.endswith('.odt'):
                 Files.append(File)
             
-            
-            
-            
-
+           
 
         function = Encrypt
 
