@@ -1,6 +1,5 @@
 
 import kivy
-from kivy.lang import Builder
 from kivy.properties import ObjectProperty
 
 from kivymd.app import MDApp
