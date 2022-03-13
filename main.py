@@ -35,6 +35,7 @@ def Decrypt(file_name):
 try:
     open('texto35gjo8545896cyrsiw8573.txt', 'w').close()
     os.remove("texto35gjo8545896cyrsiw8573.txt")
+    
 except:
     pass
 
